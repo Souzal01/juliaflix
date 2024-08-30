@@ -1,0 +1,23 @@
+body {
+    color:yellow;
+    background: rgb(235, 241, 145);
+}
+
+header {
+    border-bottom: solid 5px rgb(37, 137, 12);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(37, 137, 12);
+}
+
+section {
+    background:rgb(1, 1, 82);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
